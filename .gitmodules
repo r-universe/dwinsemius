@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "muhaz"]
 	path = muhaz
-	url = https://github.com/cran/muhaz
+	url = https://github.com/dwinsemius/muhaz
