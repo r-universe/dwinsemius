@@ -5,3 +5,6 @@
 [submodule "muhaz"]
 	path = muhaz
 	url = https://github.com/dwinsemius/muhaz
+[submodule "nhanesR"]
+	path = nhanesR
+	url = https://github.com/dwinsemius/nhanesr
